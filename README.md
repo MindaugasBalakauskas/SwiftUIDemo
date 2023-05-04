@@ -1,6 +1,15 @@
 # SwiftUIDemo
 
-This app demonstrates use of UI elements in SwiftUI
+This app demonstrates the use of UI elements in SwiftUI in MVVVM Architectural pattern.
 
-First screen Login Screen 
-Shows use of text elements with secure text functionality
+Use of "https://fruityvice.com/api/fruit/all" API to populate the fruit list and each fruit detailed data.
+
+
+## Requirements
+
+- Xcode 14+
+- Swift 5.5+
+
+## Author
+
+Mindaugas Balakauskas 
